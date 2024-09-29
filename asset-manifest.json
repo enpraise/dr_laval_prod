@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.2e662a65.css",
-    "main.js": "/static/js/main.beffac18.js",
+    "main.js": "/static/js/main.5b055197.js",
     "static/media/laval_field.jpg": "/static/media/laval_field.726bb325d6f263df1a9a.jpg",
     "static/media/laval_red.jpg": "/static/media/laval_red.6083d0c3e0155ac06138.jpg",
     "static/media/laval_doc.jpg": "/static/media/laval_doc.85270aaae40bff3d1cae.jpg",
     "index.html": "/index.html",
     "main.2e662a65.css.map": "/static/css/main.2e662a65.css.map",
-    "main.beffac18.js.map": "/static/js/main.beffac18.js.map"
+    "main.5b055197.js.map": "/static/js/main.5b055197.js.map"
   },
   "entrypoints": [
     "static/css/main.2e662a65.css",
-    "static/js/main.beffac18.js"
+    "static/js/main.5b055197.js"
   ]
 }
